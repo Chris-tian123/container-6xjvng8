@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Chris-tian123",
+  "repo": "container-6xjvng8",
+  "name": "Chris-tian123",
+  "email": "134489068+Chris-tian123@users.noreply.github.com",
+}
